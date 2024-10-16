@@ -1,4 +1,4 @@
-# Easy-Calculator
+# Easy-Calculator 🖥️
 <p>A simple graphical calculator built using Tkinter in Python, capable of performing basic arithmetic operations with an interactive GUI.</p>
 
 <h2>Features</h2>
