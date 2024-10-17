@@ -23,6 +23,3 @@
 
 <h2>Contributing</h2>
 <p>Feel free to contribute by forking this repository and submitting pull requests. Ideas for additional features are always welcome!</p>
-
-<h2>License</h2>
-<p>This project is licensed under the MIT License.</p>
